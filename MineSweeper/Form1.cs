@@ -3,7 +3,7 @@ namespace MineSweeper
     public partial class Form1 : Form
     {
         int velikost = 10;
-        int pocetMin = 10;
+        int pocetMin = 1;
 
         public Form1() {
             InitializeComponent();
